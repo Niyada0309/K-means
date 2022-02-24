@@ -1,0 +1,11 @@
+Gender,Height,Weight,Index,,Index,means
+Male,174,96,4,,0,Extremely Weak
+Male,189,87,2,,1,Weak
+Female,185,110,4,,2,Normal
+Female,195,104,3,,3,Overweight
+Male,149,61,3,,4,Obesity
+Male,189,104,3,,5,Extreme Obesity
+Male,147,92,5,,,
+Male,154,111,5,,,
+Male,174,90,3,,,
+Female,169,103,4,,,
